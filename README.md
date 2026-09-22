@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russellsahoo21&label=Profile%20views&color=0e75b6&style=flat" alt="russellsahoo21" /> </p>
 
-- 🌱 I’m currently a **2nd Year Information Technology Student**
+- 🌱 I’m currently a **3rd Year Information Technology Student**
 
 - 📫 How to reach me **russellsahoo24@gmail.com**
 
